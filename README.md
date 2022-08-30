@@ -1,4 +1,4 @@
-# javascript_project
+# javascript_course
 Projetos de exercícios desenvolvidos com base no curso da Onebitcode na área de JavaScript, com código escrito por mim.
 
 ## 🚀 Tecnologias
