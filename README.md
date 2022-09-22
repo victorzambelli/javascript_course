@@ -1,14 +1,10 @@
 # javascript_course
-Projetos de exercícios desenvolvidos com base no curso da Onebitcode na área de JavaScript, com código escrito por mim.
+Exercise projects developed based on the Onebitcode course in JavaScript, with code written by me.
 
-## 🚀 Tecnologias
-
-Esses projetos foram desenvolvidos com as seguintes tecnologias:
+## 🚀 Technologies
+These projects were developed with the following technologies:
 * HTML
 * JavaScript
 
-## 📚 Bibliotecas:
+## 📚 Libraries
 * [JavaScript](https://devdocs.io/javascript/)
-
-## 💻 Projeto
-> **Objetivo:** Colocar em prática diversas funções que a documentação do JavaScript disponibiliza.
