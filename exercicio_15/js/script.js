@@ -1,16 +1,3 @@
-/*
-    * - Quando clicar no botão de adicionar, a casa deve ser adicionada numa lista logo abaixo do formulário.
-    * - Quando for adicionada, deve vir com um botão de "Remover"
-    Todo - Quando remover for clicado, o elemento é removido da lista.
-    
-    ? removeChild
-    ? Sintaxe: var filhoRemovido = elemento.removeChild(filho);
-               elemento.removeChild(filho);
-
-    ? parentNode
-    ? Sintaxe: parentNode = node.parentNode
-*/
-
 function addHouse() {
     // Infos
     const residenceNumber = document.getElementById("residence").value
