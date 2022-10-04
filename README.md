@@ -7,6 +7,10 @@ These projects were developed with the following technologies:
 * JavaScript
 * Npm
 
+Obs - For npm projects:
+- Use npm i --save-dev packagename - For Install DevDependencies Packages
+- Use npm start - For initialize webpack server
+
 ## 📚 Libraries
 * [JavaScript](https://devdocs.io/javascript/)
 * [Npm](https://www.npmjs.com/)
