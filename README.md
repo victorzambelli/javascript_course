@@ -5,6 +5,8 @@ Exercise projects developed based on the Onebitcode course in JavaScript, with c
 These projects were developed with the following technologies:
 * HTML
 * JavaScript
+* Npm
 
 ## 📚 Libraries
 * [JavaScript](https://devdocs.io/javascript/)
+* [Npm](https://www.npmjs.com/)
